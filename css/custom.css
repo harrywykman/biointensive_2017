@@ -1,0 +1,61 @@
+.reveal .slide-background.trans-bg-7.present {
+    opacity: .7;
+}
+
+.reveal .slide-background.trans-bg-6.present {
+    opacity: .6;
+}
+
+.reveal .slide-background.trans-bg-5.present {
+    opacity: .5;
+}
+
+.reveal .slide-background.trans-bg-4.present {
+    opacity: .4;
+}
+
+.reveal .slide-background.trans-bg-3.present {
+    opacity: .3;
+}
+
+.reveal .slide-background.trans-bg-2.present {
+    opacity: .2;
+}
+
+.reveal .slide-background.trans-bg-1.present {
+    opacity: .1;
+}
+
+.reveal .muted {
+    color: #999;
+}
+
+.reveal .attribution {
+  position: fixed;
+  display: block;
+  right: 8px;
+  bottom: 8px;
+  z-index: 31;
+  font-family: Helvetica, sans-serif;
+  font-size: 12px;
+  line-height: 1;
+  color: #fff;
+  padding: 5px;
+  opacity: 0.8;
+}
+
+.reveal .watermark {
+  position: fixed;
+  display: block;
+  right: 8px;
+  bottom: 8px;
+  z-index: 31;
+  font-size: 12px;
+  line-height: 1;
+  color: #fff;
+  padding: 10px;
+}
+
+.reveal .slides section .fragment.highlight-current-blue.current-fragment {
+    color: #6699ff;
+}
